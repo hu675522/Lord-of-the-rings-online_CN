@@ -25,7 +25,7 @@
 1. 下载真正的“Lord-of-the-rings-online_CN-0.1.0-preview.zip”，完整解压到游戏目录以外的固定文件夹。
 2. 安装 Python 3.11 或更新版本，建议 Python 3.12，保留安装器中的 Tcl/Tk 和 Python Launcher。
 3. 退出游戏与启动器，依次运行 `01_校验补丁.cmd`、`02_检查游戏版本.cmd`、`03_安装汉化.cmd`
-4. 在目录选择窗口中选中本机 LOTRO 主目录。
+4. 在目录选择窗口中选中自己Windows电脑 LOTRO 主目录。
 
    该目录应直接包含 `client_local_English.dat` 等五个资源文件，不能选择 `x64`、文档 Plugins 或启动器快捷方式。
 6. 保留补丁目录下的 backups、work 和安装收据，之后通过 `04_还原英文.cmd` 还原。
