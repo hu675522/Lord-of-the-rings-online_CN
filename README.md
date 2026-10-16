@@ -1,6 +1,8 @@
 # Lord of the rings online_CN汉化包
 
-《The Lord of the Rings Online》非官方简体中文汉化，适用于 Windows 英文客户端。包含游戏文本、中文字体和 218 张中英双语地图。译文以机器初稿为主，术语和长文本仍可继续校对；商城网页暂不汉化。
+《The Lord of the Rings Online》非官方简体中文汉化，适用于 Windows 英文客户端。
+包含游戏文本、中文字体和 218 张中英双语地图。
+译文以机器初稿为主，术语和长文本仍可继续校对；商城网页暂不汉化。
 
 ## 下载与目录
 
@@ -40,4 +42,6 @@
 
 [开发说明](docs/DEVELOPMENT.md) · [发布准备](docs/RELEASING.md) · [来源与许可](THIRD_PARTY_NOTICES.md) · [变更记录](CHANGELOG.md)
 
-项目展示名称为 **Lord of the rings online_CN汉化包**。GitHub 仓库名建议为 `Lord-of-the-rings-online_CN`；仓库地址：https://github.com/hu675522/Lord-of-the-rings-online_CN。当前发布为预发布版，不代表全量人工校对已完成。
+项目展示名称为 **Lord of the rings online_CN汉化包**。
+GitHub 仓库名建议为 `Lord-of-the-rings-online_CN`；
+仓库地址：https://github.com/hu675522/Lord-of-the-rings-online_CN。当前发布为预发布版，不代表全量人工校对已完成。
