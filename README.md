@@ -42,6 +42,4 @@
 
 [开发说明](docs/DEVELOPMENT.md) · [发布准备](docs/RELEASING.md) · [来源与许可](THIRD_PARTY_NOTICES.md) · [变更记录](CHANGELOG.md)
 
-项目展示名称为 **Lord of the rings online_CN汉化包**。
-GitHub 仓库名建议为 `Lord-of-the-rings-online_CN`；
 仓库地址：https://github.com/hu675522/Lord-of-the-rings-online_CN。当前发布为预发布版，不代表全量人工校对已完成。
