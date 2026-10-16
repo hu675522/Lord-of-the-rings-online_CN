@@ -1,0 +1,23 @@
+[
+  {"english":"hobbits?","chinese":"霍比特人","wrong":["爱好者","哈比人"]},
+  {"english":"Rohan","chinese":"洛汗","wrong":["罗汉","罗翰"]},
+  {"english":"Gondor","chinese":"刚铎","wrong":["贡多","冈铎","刚多"]},
+  {"english":"Shire","chinese":"夏尔","wrong":["郡"]},
+  {"english":"Bree","chinese":"布理","wrong":["布雷"]},
+  {"english":"Mordor","chinese":"魔多","wrong":["莫多","摩多"]},
+  {"english":"Mithril","chinese":"秘银","wrong":["米特里尔","米斯里尔"]},
+  {"english":"dwar(?:f|ves)","chinese":"矮人","wrong":["侏儒"]},
+  {"english":"(?:elf|elves)","chinese":"精灵","wrong":["妖精"]},
+  {"english":"Gandalf","chinese":"甘道夫","wrong":["甘达尔夫"]},
+  {"english":"Aragorn","chinese":"阿拉贡","wrong":["阿拉冈"]},
+  {"english":"Frodo","chinese":"弗罗多","wrong":["弗洛多"]},
+  {"english":"Bilbo","chinese":"比尔博","wrong":["比尔波"]},
+  {"english":"Sauron","chinese":"索伦","wrong":["萨乌隆"]},
+  {"english":"Saruman","chinese":"萨鲁曼","wrong":["萨鲁门"]},
+  {"english":"Smaug","chinese":"史矛革","wrong":["斯毛格","斯莫格"]},
+  {"english":"Lossoth","chinese":"洛索斯","wrong":["损失"]},
+  {"english":"Halter","chinese":"缰绳","wrong":["停靠者"]},
+  {"english":"Mounted Combat","chinese":"骑乘战斗","wrong":["登山战斗","安装战斗"]},
+  {"english":"Middle-earth","chinese":"中土世界","wrong":[]},
+  {"english":"Reputation","chinese":"声望","wrong":["名誉"]}
+]

@@ -1,0 +1,2 @@
+# Tested with Python 3.12. Model/GPU dependencies are not needed for unit tests.
+Pillow==12.3.0

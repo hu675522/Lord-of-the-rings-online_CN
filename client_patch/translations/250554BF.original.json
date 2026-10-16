@@ -1,0 +1,210 @@
+{
+  "resource_id": "0x250554bf",
+  "fragments": [
+    {
+      "id": "228870261",
+      "pieces": [
+        "Chapter 16.3: Investigations In An Shêru"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883719",
+      "pieces": [
+        "'The Ordâkhai who control Emax Dûl are being manipulated by the Thardúth. I am certain of it.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477376",
+      "pieces": [
+        "Talk to Glorfindel on the road toward Idagâl"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883720",
+      "pieces": [
+        "Glorfindel stands here."
+      ],
+      "args": []
+    },
+    {
+      "id": "111477377",
+      "pieces": [
+        "Talk to Rahâzi on the road toward Idagâl"
+      ],
+      "args": []
+    },
+    {
+      "id": "228284034",
+      "pieces": [
+        "'Mashdagâl fled this place while you were away, but unless he leaves An Shêru entirely I fear he will not escape the reach of the Thardúth. Did the tremors caused during the Din of Stone unseal the path to a second vault of Morgoth's servants? It seems likely to me, ",
+        ", and I believe one of the slain Ordâkhai has given us a name to this place: Damudûr.\\n\\n'We have some work to do. Once we have learned what we can in An Shêru we will travel westward, where the road leads to Idagâl.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "228284036",
+      "pieces": [
+        "'Shenzâmin and I cannot let these terrors distract us from the mission given to us by Shâra Mizâdi. We will help you investigate An Shêru, but we must also carry out our own duties.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "228284037",
+      "pieces": [
+        "'Did the tremors caused during the Din of Stone unseal the path to a second vault of Morgoth's servants? It seems likely to me, ",
+        ", and I believe one of the slain Ordâkhai has given us a name to this place: Damudûr.\\n\\n'We have some work to do. Once we have learned what we can in An Shêru we will travel westward, where the road leads to Idagâl.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "228284039",
+      "pieces": [
+        "'If we all work together we can both carry out our duties and search An Shêru for the evils that threaten its people.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883728",
+      "pieces": [
+        "'Ever since we departed Zajâna, I suspected our road would bring us to Emax Dûl in Idagâl. I did not expect the situation with which we are now threatened, that the Ordâkhai who control that city might be manipulated by the Thardúth.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883730",
+      "pieces": [
+        "'Shenzâmin and Kishâtal have set out for Kighân to bring word back to Shâra Mizâdi. I will remain with you, ",
+        ", for I fought at the Sabûdamar, the red-rush battle, and I know the danger posed by the Thardúth.\\n\\n'For fallen Surdûsha and the honour of the Dumûri, I will fight alongside you against them!'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "162883731",
+      "pieces": [
+        "'TBD - Blah!'"
+      ],
+      "args": []
+    },
+    {
+      "id": "51875089",
+      "pieces": [
+        "Glorfindel believes that terrible evils slept within An Shêru, but they must now be awake. You must determine the dangers lurking within the Height of the Sky and aid your companions with their duties."
+      ],
+      "args": []
+    },
+    {
+      "id": "246419841",
+      "pieces": [
+        "Rahâzi is on the road toward Idagâl."
+      ],
+      "args": []
+    },
+    {
+      "id": "216727827",
+      "pieces": [
+        "The Hamâti soldier Kishâtal in Gadim-ûn has something he wishes to say to you."
+      ],
+      "args": []
+    },
+    {
+      "id": "216727830",
+      "pieces": [
+        "Your companions within Gadim-ûn have a number of investigations with which they need your help."
+      ],
+      "args": []
+    },
+    {
+      "id": "216727832",
+      "pieces": [
+        "Having aided your companions with their investigations, you should now meet them where the road leads toward Idagâl."
+      ],
+      "args": []
+    },
+    {
+      "id": "216727833",
+      "pieces": [
+        "Glorfindel is on the road toward Idagâl."
+      ],
+      "args": []
+    },
+    {
+      "id": "111477396",
+      "pieces": [
+        "Work with Shenzâmin and complete 'Emissaries to Jiret-menêsh'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477397",
+      "pieces": [
+        "Work with Glorfindel and complete 'The Madness at Damudûr'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477398",
+      "pieces": [
+        "Work with Rahâzi and complete 'A Song of Shurug-nîn'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477399",
+      "pieces": [
+        "Work with Ulishár and complete 'A Difficult Step'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477400",
+      "pieces": [
+        "Talk to the Hamâti soldier Kishâtal in Gadim-ûn"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477401",
+      "pieces": [
+        "Meet with your companions on the road toward Idagâl"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082786",
+      "pieces": [
+        "Investigation completed: 'Emissaries to Jiret-menêsh'"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082787",
+      "pieces": [
+        "Investigation completed: 'The Madness at Damudûr'"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082789",
+      "pieces": [
+        "Investigation completed: 'A Song of Shurug-nîn'"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082790",
+      "pieces": [
+        "Investigation completed: 'A Difficult Step'"
+      ],
+      "args": []
+    }
+  ]
+}

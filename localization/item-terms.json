@@ -1,0 +1,49 @@
+{
+  "essence_prefixes": {
+    "":"", "Minor ":"初级", "Major ":"中级", "Greater ":"高级", "Supreme ":"至尊",
+    "Skirmisher's ":"遭遇战士的", "Unearthed Rift ":"出土的裂隙", "Treasured Rift ":"珍藏的裂隙", "Cardolan ":"卡多兰",
+    "Guardsman's ":"卫兵的", "Sergeant's ":"军士的", "Footman's ":"步兵的", "Softly Moonlit ":"柔和月照",
+    "Ithilien-infused ":"伊希利恩灌注", "Ithilien ":"伊希利恩", "Ithilien-tempered ":"伊希利恩淬炼",
+    "Flickering Delver's ":"闪烁的深探者", "Flickering Sea-farer's ":"闪烁的航海者", "Flickering Sun-kissed ":"闪烁的日吻",
+    "Shadowed ":"暗影笼罩的", "Empowered Dark ":"强化黑暗", "Empowered Shadow ":"强化暗影", "Dark ":"黑暗",
+    "Abyssal ":"深渊", "Empowered Abyssal ":"强化深渊", "Northern Stronghold ":"北方要塞", "Fortified Mithrin ":"坚固的米斯林",
+    "Empowered Mithrin ":"强化米斯林", "Mithrin ":"米斯林", "Weak Mithrin ":"微弱的米斯林", "Gladdenmere ":"格拉登湖",
+    "Treasured Helegrod ":"珍藏的赫莱格罗德", "Unearthed Helegrod ":"出土的赫莱格罗德",
+    "Flickering Moonlit ":"闪烁月照", "Warmly Moonlit ":"温暖月照", "Moonlit ":"月照",
+    "Wishful Naruhel ":"祈愿的纳鲁赫尔", "Wistful Naruhel ":"惆怅的纳鲁赫尔",
+    "Humble Delver's ":"朴素的深探者", "Delver's ":"深探者", "Lively Delver's ":"活跃的深探者", "Vivid Delver's ":"鲜明的深探者",
+    "Lively Sea-farer's ":"活跃的航海者", "Brilliant Sea-farer's ":"璀璨的航海者", "Sea-farer's ":"航海者", "Vivid Sea-farer's ":"鲜明的航海者", "Humble Sea-farer's ":"朴素的航海者",
+    "Humble Sun-kissed ":"朴素的日吻", "Sun-kissed ":"日吻", "Lively Sun-kissed ":"活跃的日吻",
+    "Ruthless ":"无情", "Relentless ":"不屈", "Bounty Hunter's ":"赏金猎人的", "Amelia's ":"阿梅莉亚的",
+    "Striking ":"醒目的", "Petrified ":"石化", "Superlative ":"卓越", "Pelennor ":"佩兰诺", "Blighted ":"枯萎"
+  },
+  "stats": {
+    "Fate":"命运", "Agility":"敏捷", "Will":"意志", "Vitality":"体质", "Might":"力量", "Power":"能量", "Morale":"士气",
+    "Parrying":"招架", "Parry":"招架", "Blocking":"格挡", "Block":"格挡", "Incoming Healing":"受疗", "Evasion":"闪避",
+    "Physical Mitigation":"物理减伤", "Tactical Mitigation":"战术减伤", "Physical Mastery":"物理精通", "Tactical Mastery":"战术精通",
+    "Critical Rating":"暴击等级", "Critical Defence":"暴击防御", "Finesse":"精准", "Resistance":"抗性", "Healing":"治疗", "Restoration":"恢复"
+  },
+  "qualities": {
+    "":"", "Lesser ":"次级", "Greater ":"强效", "Simple ":"简易", "Refined ":"精制", "Pure ":"纯净", "Distilled ":"蒸馏",
+    "Infused ":"灌注", "Enhanced ":"增强", "Concentrated ":"浓缩", "Potent ":"强力", "Steeped ":"浸制", "Superior ":"优质", "Supreme ":"至尊",
+    "Mûrai ":"穆尔", "Greater Mûrai ":"强效穆尔", "Umbari Greater ":"强效昂巴", "Umbari ":"昂巴", "Gundabad ":"贡达巴德",
+    "Minas Ithil ":"米那斯伊希尔", "Ironfold ":"铁谷", "Ered Mithrin ":"灰色山脉", "Doomfold ":"末日谷",
+    "Superior Doomfold ":"优质末日谷", "Supreme Doomfold ":"至尊末日谷", "Anórien ":"阿诺瑞恩", "Anfalas ":"安法拉斯",
+    "Eorlingas ":"埃欧尔子民", "Westemnet ":"西埃姆内特", "Eastemnet ":"东埃姆内特", "Riddermark ":"骠骑之国", "Rohirric ":"洛汗", "Westfold ":"西伏尔德"
+  },
+  "remedies": {
+    "Athelas Essence":"阿塞拉斯精华", "Celebrant Salve":"凯勒布兰特药膏", "Healing Draught":"治疗药剂", "Healing Salve":"治疗药膏",
+    "Milkthistle Draught":"水飞蓟药剂", "Milkthistle Salve":"水飞蓟药膏", "Lhinestad Draught":"林内斯塔德药剂", "Lhinestad Salve":"林内斯塔德药膏",
+    "Conhuith Draught":"康胡伊斯药剂", "Conhuith Salve":"康胡伊斯药膏", "Salve of Lhinestad":"林内斯塔德药膏", "Salve of Conhuith":"康胡伊斯药膏",
+    "Cleansing Draught":"净化药剂", "Healing Potion":"治疗药水"
+  },
+  "materials": {
+    "Copper":"铜", "Tin":"锡", "Bronze":"青铜", "Barrow-iron":"古墓铁", "Iron":"铁", "Wrought Iron":"熟铁", "Silver":"银", "Gold":"金", "Rich Iron":"富铁",
+    "Platinum":"铂", "Dwarf-iron":"矮人铁", "Ancient Iron":"古代铁", "Dwarf-steel":"矮人钢", "Steel":"钢", "Elven-steel":"精灵钢",
+    "Khazâd-copper":"卡扎德铜", "Khazâd-tin":"卡扎德锡", "Khazâd-bronze":"卡扎德青铜", "Khazâd-iron":"卡扎德铁", "Khazâd-gold":"卡扎德金", "Khazâd-steel":"卡扎德钢",
+    "Calenard":"卡勒纳德", "Eorlingas":"埃欧尔子民", "Anórien":"阿诺瑞恩", "Doomfold":"末日谷", "Ironfold":"铁谷", "Minas Ithil":"米那斯伊希尔", "Gundabad":"贡达巴德", "Shagâni":"沙加尼",
+    "Mûrai Iron":"穆尔铁", "Mûrai Mirrored":"穆尔镜光", "Mûrai":"穆尔", "Brass":"黄铜", "Riddermark":"骠骑之国",
+    "Rowan":"花楸", "Ash":"白蜡", "Yew":"紫杉", "Lebethron":"勒贝斯隆", "Black Ash":"黑蜡木", "Ilex":"冬青", "Birch":"桦木", "Poplar":"杨木", "Walnut":"胡桃", "Mallorn":"瑁珑",
+    "Light":"轻薄", "Medium":"中等", "Sturdy":"结实", "Pristine":"完好", "Exceptional":"上等", "Magnificent":"华美", "Extraordinary":"非凡"
+  }
+}

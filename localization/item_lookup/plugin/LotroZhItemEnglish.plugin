@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Information>
+    <Name>LotroZhItemEnglish</Name>
+    <Author>LotroZh</Author>
+    <Version>0.1.4</Version>
+    <Description>Drop an item to look up its original English name for auction search.</Description>
+  </Information>
+  <Package>LotroZh.ItemEnglish.Main</Package>
+  <Configuration Apartment="LotroZhItemEnglish" />
+</Plugin>

@@ -1,0 +1,1 @@
+"""Offline LOTRO translation prototype."""

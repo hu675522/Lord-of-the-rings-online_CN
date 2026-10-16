@@ -1,0 +1,377 @@
+{
+  "resource_id": "0x250554d3",
+  "fragments": [
+    {
+      "id": "49286689",
+      "pieces": [
+        "Bring the fancy Ordâkhai blade to Arshûk at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082772",
+      "pieces": [
+        "The Ordâkhai have established the camp of Kôth Rau outside Damudûr"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883712",
+      "pieces": [
+        "'What... what is it? What have you done?'\\n\\nYou show Arshûk the fancy blade of Ordâkh and he looks at you in amazement.\\n\\n'You dared trespass near enough to Damudûr to retrieve this blade? That displays true courage, stranger!'"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082774",
+      "pieces": [
+        "Arshûk stares at you with wild, terrified eyes"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883715",
+      "pieces": [
+        "'It was a few nights ago. Under cover of the darkness, I crept near to the camp of the Ordâkhai soldiers. I thought I might be able to steal some of the unattended swords or other treasures. The Ordâkhai plunder the Ridge of Plenty for its wealth, and have always done so... how have they that right but I do not?\\n\\n'I was about to slip into the camp when something made me pause. Believe me when I tell you I know this for certain: had I not stayed my feet, I would not be alive today. For as I hesitated, a group of figures emerged from the cleft of Damudûr and passed by the light of a fire. From their attire, I knew four of them to be nobles of Ordâkh, but their manner was striking. Had they not been so richly-dressed I might have thought them servants. They cringed and capered before the two most severe creatures I have ever seen.\\n\\n'They were tall and gaunt, in appearance like the Kinta Elves you sometimes see throughout the Mûr. But where those folk possess a distant, preoccupied air, from these creatures I felt a sensation of intense hatred. A man and a woman they seemed in appearance, but the feeling of hatred radiating from them struck me as being quite otherworldly. They were flanked on two sides by great Orcs larger than any I have seen before; my blood ran cold and my breath stopped as they drew near to my hiding-place.\\n\\n'The clowning Ordâkhai nobility guided their companions past the fires and into the darkness of the enveloping night, and as they faded from my view, but not my memory, never my memory, I heard them speak the name \\qEmax Dûl.\\q That is where the terrible creatures must be now, either the guests or the masters of Ordâkh.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883717",
+      "pieces": [
+        "'It is clear to me from Arshûk's account that the large Orcs he saw from afar were Utûgi. They must serve the Thardúth of Damudûr even as those that slew my brother served the Thardúth of Utug-bûr.\\n\\n'In Baharúd's memory will I continue to stand beside you, ",
+        ". The Utûgi may not fear a Kinta Elf such as Ulishár... but it may be they should.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "216727827",
+      "pieces": [
+        "Glorfindel suggested you meet at Khanâg Gur north of Damudûr."
+      ],
+      "args": []
+    },
+    {
+      "id": "162883718",
+      "pieces": [
+        "'As they faded from my view, but not my memory, never my memory, I heard them speak the name \\qEmax Dûl.\\q That is where the terrible creatures must be now, either the guests or the masters of Ordâkh.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "228284034",
+      "pieces": [
+        "'Something has driven to madness the sorcerers of Ordâkh you encountered here in An Shêru, ",
+        ". What can be the cause but the Thardúth, newly-awakened and testing their power? During the Dagor Carlanthir, even Inkanûsh struggled to repel the invasive voices of the servants of Morgoth dwelling within Utug-bûr. What ordinary Man of Ordâkh might hope to strive even half so well?\\n\\n'One of the slain sorcerers has given us a name to investigate: Damudûr. We must learn if this location hides the entrance to a vault of the Thardúth like we discovered at Utug-bûr.\\n\\n'I have heard mention of a Khanâg to the south-west where travellers gather. We should go to this place and see what we can learn of Damudûr.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "216727829",
+      "pieces": [
+        "Glorfindel is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "162883720",
+      "pieces": [
+        "'I believe what Arshûk has told to us, but we know more about the Thardúth than he does, through no fault of his own. His fear of them is neither misplaced nor unfounded.\\n\\n'Nobles of Ordâkh are not accustomed to subservience. For them to behave so in the presence of the Thardúth indicates to me they have some knowledge of their powers or abilities. The Ordâkhai are right to fear them; perhaps they believe such demonstrations will keep the creatures they discovered at Damudûr under control. On this they must be wrong. The Thardúth intend to manipulate the Ordâkhai and seize control of their empire.\\n\\n'Each of these remain our foes. We will continue to oppose them, even as they prey upon each other. But Arshûk's tale has told me something else of use, ",
+        ". The madness that inflicted the others who strayed near Damudûr did not affect Arshûk. The Thardúth must be aware of an individual in order to invade his mind. This may be useful to us.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "162883721",
+      "pieces": [
+        "'In Baharúd's memory will I continue to stand beside you, ",
+        ". The Utûgi may not fear a Kinta Elf such as Ulishár... but it may be they should.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "228284036",
+      "pieces": [
+        "'I have heard mention of a Khanâg to the south-west where travellers gather. We should go to this place and see what we can learn of Damudûr.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "51875089",
+      "pieces": [
+        "Glorfindel suspects that Damudûr may have hidden the entrance to a lost vault of the Thardúth."
+      ],
+      "args": []
+    },
+    {
+      "id": "216727831",
+      "pieces": [
+        "Glorfindel asked you to approach Damudûr and <rgb=#00FF00>look</rgb> for some sign of the Thardúth."
+      ],
+      "args": []
+    },
+    {
+      "id": "111477410",
+      "pieces": [
+        "Wait for Arshûk to gather his courage"
+      ],
+      "args": []
+    },
+    {
+      "id": "228284038",
+      "pieces": [
+        "'We were right to come here. Travellers speak of a cleft in the rocks to the south named Damudûr. I have learned little but the name, for stories of that place are muddled and confused. Most folk fear to go that way, but they are unable to explain why they fear it so. Some say the cleft is held by Ordâkh, but others claim to experience terror of a deeper nature.\\n\\n'You should make your way south, further along the road, and <rgb=#00FF00>look</rgb> for yourself. Ulishár and I will continue to speak to the people here in search of an answer to this central question: do the people fear the presence of Ordâkh at Damudûr, or a deeper evil?'"
+      ],
+      "args": []
+    },
+    {
+      "id": "216727833",
+      "pieces": [
+        "Ulishár is at Khanâg Gur, waiting to speak with you."
+      ],
+      "args": []
+    },
+    {
+      "id": "111477412",
+      "pieces": [
+        "Talk to Arshûk at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477413",
+      "pieces": [
+        "Talk to Ulishár at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "228284040",
+      "pieces": [
+        "'Some folk say the cleft is held by Ordâkh, but others claim to experience terror of a deeper nature. You should make your way south and <rgb=#00FF00>look</rgb> for yourself, my friend.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "49286706",
+      "pieces": [
+        "Climb the path south of Khanâg Gur and <rgb=#00FF00>look</rgb> towards Damudûr"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477414",
+      "pieces": [
+        "Talk to Glorfindel at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477328",
+      "pieces": [
+        "<rgb=#00FF00>Look</rgb> towards the Ordâkhai camp outside Damudûr"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883728",
+      "pieces": [
+        "'The Ordâkhai encamp outside Damudûr. They must be searching for something, but what that may be remains unknown to us.\\n\\n'I found someone who might know something of their purpose, but he is too terrified to speak any further on the subject. He is named Arshûk. Can you convince him to tell us what he saw at Damudûr?'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477329",
+      "pieces": [
+        "Climb the path south of Khanâg Gur toward Damudûr"
+      ],
+      "args": []
+    },
+    {
+      "id": "246419841",
+      "pieces": [
+        "Arshûk is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "162883730",
+      "pieces": [
+        "'I want to help you, but... but...'\\n\\nArshûk stammers with fright. Only when you place a reassuring hand on his arm does he calm sufficiently to make himself understood.\\n\\n'If I speak, will you protect me from the terrible creatures that stand behind the Ordâkhai? Can you prove to me you have the courage to oppose them?'"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883731",
+      "pieces": [
+        "'I found someone who might know something of their purpose, but he is too terrified to speak. He is named Arshûk. Can you convince him to tell us what he saw at Damudûr?'"
+      ],
+      "args": []
+    },
+    {
+      "id": "246419844",
+      "pieces": [
+        "Glorfindel is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "162883733",
+      "pieces": [
+        "'Arshûk began to tell Ulishár about something he saw at Damudûr, but then he was overcome with terror and would say nothing more. Whatever he saw, we must prove to him we have the courage to protect him or he will say nothing.\\n\\n'One common element has emerged from the talk of the people with whom I have spoken, ",
+        ". Many of these folk have been impressed by the bright shine of the weapons wielded by the Ordâkhai, and by the gems and jewels that adorn their clothing.\\n\\n'Perhaps if you retrieve a fancy blade of Ordâkh from the camp of Kôth Rau, Arshûk will see you have the courage to oppose this kingdom, and protect him from its soldiers. Then it may be his tongue will loosen and he will confirm what I have come to suspect: that the Thardúth walk in An Shêru.'"
+      ],
+      "args": [
+        "b529ec03"
+      ]
+    },
+    {
+      "id": "162883734",
+      "pieces": [
+        "'If I speak, will you protect me from the terrible creatures that stand behind the Ordâkhai? Can you prove to me you have the courage to oppose them?'"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477424",
+      "pieces": [
+        "Meet up with Glorfindel at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "246419847",
+      "pieces": [
+        "Glorfindel believes that if you retrieve a fancy Ordâkhai blade from Kôth Rau, you will convince Arshûk to tell you what he saw."
+      ],
+      "args": []
+    },
+    {
+      "id": "111477425",
+      "pieces": [
+        "Talk to Glorfindel at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "162883736",
+      "pieces": [
+        "'Perhaps if you retrieve a fancy blade of Ordâkh from Kôth Rau, near to the entrance of the cleft at Damudûr, Arshûk will see you have the courage to protect him. Then it may be his tongue will loosen and he will confirm what I have come to suspect: that the Thardúth walk in An Shêru.'"
+      ],
+      "args": []
+    },
+    {
+      "id": "246419849",
+      "pieces": [
+        "Arshûk is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "111477429",
+      "pieces": [
+        "Talk to Ulishár at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477431",
+      "pieces": [
+        "Talk to Arshûk at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477432",
+      "pieces": [
+        "Talk to Glorfindel at Khanâg Gur"
+      ],
+      "args": []
+    },
+    {
+      "id": "111477433",
+      "pieces": [
+        "Retrieve a fancy Ordâkhai blade from the camp of Kôth Rau"
+      ],
+      "args": []
+    },
+    {
+      "id": "246419857",
+      "pieces": [
+        "Arshûk gathers his courage."
+      ],
+      "args": []
+    },
+    {
+      "id": "246419858",
+      "pieces": [
+        "Arshûk is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "246419860",
+      "pieces": [
+        "Ulishár is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "246419863",
+      "pieces": [
+        "Glorfindel is at Khanâg Gur."
+      ],
+      "args": []
+    },
+    {
+      "id": "177082752",
+      "pieces": [
+        "Retrieved fancy Ordâkhai blade from the camp of Kôth Rau"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082755",
+      "pieces": [
+        "Arshûk takes a deep breath and gathers his courage"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082759",
+      "pieces": [
+        "Glorfindel catches your eye"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082760",
+      "pieces": [
+        "Emotion wars upon Arshûk's face as he wrestles with his fear"
+      ],
+      "args": []
+    },
+    {
+      "id": "177082761",
+      "pieces": [
+        "Glorfindel calls you over to him"
+      ],
+      "args": []
+    },
+    {
+      "id": "228870261",
+      "pieces": [
+        "The Madness at Damudûr"
+      ],
+      "args": []
+    }
+  ]
+}

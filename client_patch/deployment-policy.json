@@ -1,0 +1,6 @@
+{
+  "deployment_enabled": false,
+  "reason": "用户要求先还原英文，扩大汉化只在 D:\\PY\\zhihuanwang 中制作，暂不部署。",
+  "component_scope": "DAT localization only",
+  "item_plugin_installation": "Independent package; requires a separate explicit plugin operation."
+}
