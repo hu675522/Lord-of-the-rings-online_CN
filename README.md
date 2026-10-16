@@ -1,7 +1,9 @@
 # Lord of the rings online_CN汉化包
 
 《The Lord of the Rings Online》非官方简体中文汉化，适用于 Windows 英文客户端。
+
 包含游戏文本、中文字体和 218 张中英双语地图。
+
 译文以机器初稿为主，术语和长文本仍可继续校对；商城网页暂不汉化。
 
 ## 下载与目录
