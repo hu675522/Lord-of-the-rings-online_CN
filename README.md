@@ -6,7 +6,7 @@
 
 译文以机器初稿为主，术语和长文本仍可继续校对；商城网页暂不汉化。
 
-pictures/人物界面.png
+[pictures/人物界面.png](https://github.com/hu675522/Lord-of-the-rings-online_CN/blob/main/pictures/%E4%BA%BA%E7%89%A9%E7%95%8C%E9%9D%A2.png?raw=true)
 
 ## 下载与目录
 
