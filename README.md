@@ -20,7 +20,7 @@
 
 [汉化安装、备份、还原与排错](docs/INSTALL.md) · [独立插件说明](docs/ITEM_PLUGIN.md) · [两个组件如何分别管理](docs/PACKAGES.md)
 
-## 安装概览
+## 汉化包安装说明
 
 1. 下载真正的“Lord-of-the-rings-online_CN-0.1.0-preview.zip”，完整解压到游戏目录以外的固定文件夹。
 2. 安装 Python 3.11 或更新版本，建议 Python 3.12，保留安装器中的 Tcl/Tk 和 Python Launcher。
@@ -32,7 +32,7 @@
 
 首次安装同一磁盘建议预留 45 GiB 可用空间。补丁只支持发布清单中指定的英文文件版本；路径可以不同，但资源版本必须匹配。详见完整说明。
 
-## 插件管理
+## 插件安装说明
 
 英文名插件独立安装到 Windows 文档中的游戏 Plugins，不与汉化自动捆绑。
 
