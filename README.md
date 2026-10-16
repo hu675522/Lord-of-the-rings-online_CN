@@ -6,6 +6,8 @@
 
 译文以机器初稿为主，术语和长文本仍可继续校对；商城网页暂不汉化。
 
+pictures/人物界面.png
+
 ## 下载与目录
 
 [下载 0.1.0-preview 汉化包和独立插件](https://github.com/hu675522/Lord-of-the-rings-online_CN/releases/tag/v0.1.0-preview) · [反馈问题](https://github.com/hu675522/Lord-of-the-rings-online_CN/issues)
