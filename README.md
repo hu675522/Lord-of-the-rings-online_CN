@@ -32,9 +32,11 @@
 
 首次安装同一磁盘建议预留 45 GiB 可用空间。补丁只支持发布清单中指定的英文文件版本；路径可以不同，但资源版本必须匹配。详见完整说明。
 
-## 插件分别管理
+## 插件管理
 
-英文名插件独立安装到 Windows 文档中的游戏 Plugins，不与汉化自动捆绑。可手动复制 Plugins/LotroZh，无需 Python；或使用插件 Install.cmd。
+英文名插件独立安装到 Windows 文档中的游戏 Plugins，不与汉化自动捆绑。
+
+可手动复制 Plugins/LotroZh，无需 Python；或使用插件 Install.cmd。
 
 进入角色后逐条输入：
 
@@ -43,7 +45,11 @@
 /plugins load LotroZhItemEnglish
 ```
 
-窗口未显示时输入 /zhenitem reset。操作说明见插件附件中的 使用说明.md。插件卸载不会还原汉化，汉化还原也不会卸载插件。
+窗口未显示时输入 /zhenitem reset。
+
+操作说明见插件附件中的 使用说明.md。
+
+插件卸载不会还原汉化，汉化还原也不会卸载插件。
 
 ## 覆盖范围
 
