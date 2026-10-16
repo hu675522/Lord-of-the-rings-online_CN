@@ -26,6 +26,9 @@
 ### 菜单界面
 ![菜单界面](pictures/菜单界面.png)
 
+### 插件界面
+![插件界面](pictures/LotroZhItemEnglish插件.png)
+
 ## 下载与目录
 
 [下载 0.1.0-preview 汉化包和独立插件](https://github.com/hu675522/Lord-of-the-rings-online_CN/releases/tag/v0.1.0-preview) · [反馈问题](https://github.com/hu675522/Lord-of-the-rings-online_CN/issues)
